@@ -1,0 +1,128 @@
+{
+    "low_priority": [
+        {
+            "id": "cult_low_01",
+            "content": "Strange symbols are appearing on walls in the poorer districts, dismissed as graffiti.",
+            "reliability": "low",
+            "source_type": "physical",
+            "source_id": "city_guard_report",
+            "location": "City Streets"
+        },
+        {
+            "id": "cult_low_02",
+            "content": "Citizens report hearing strange chanting at night, but investigations find nothing.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "citizen_report",
+            "location": "Residential District"
+        },
+        {
+            "id": "cult_low_03",
+            "content": "A few people have gone missing, but authorities dismiss it as normal urban disappearances.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "family_report",
+            "location": "City Watch Barracks"
+        },
+        {
+            "id": "cult_low_04",
+            "content": "Unusual animal behavior is reported in the city, with pets acting strangely.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "pet_owner",
+            "location": "City Streets"
+        },
+        {
+            "id": "cult_low_05",
+            "content": "Reports of people wearing unusual clothing and avoiding daylight hours.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "tavern_keeper",
+            "location": "Tavern"
+        }
+    ],
+    "medium_priority": [
+        {
+            "id": "cult_med_01",
+            "content": "Investigation reveals a secret meeting place where cult rituals are being performed.",
+            "reliability": "medium",
+            "source_type": "physical",
+            "source_id": "city_guard_raid",
+            "location": "Abandoned Building"
+        },
+        {
+            "id": "cult_med_02",
+            "content": "A captured cult member reveals the existence of a larger organization with sinister goals.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "city_guard_interrogation",
+            "location": "City Watch Barracks"
+        },
+        {
+            "id": "cult_med_03",
+            "content": "Analysis of missing person reports shows a pattern linking disappearances to cult activity.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "city_archives",
+            "location": "City Archives"
+        },
+        {
+            "id": "cult_med_04",
+            "content": "Intercepted communications reveal cult plans to disrupt religious ceremonies.",
+            "reliability": "medium",
+            "source_type": "intercepted",
+            "source_id": "spy_network",
+            "location": "Hidden Den"
+        },
+        {
+            "id": "cult_med_05",
+            "content": "Reports from the temple indicate attempts to infiltrate religious institutions.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "temple_guard",
+            "location": "Temple"
+        }
+    ],
+    "high_priority": [
+        {
+            "id": "cult_high_01",
+            "content": "A high-ranking cult leader is captured, revealing plans for a massive uprising.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "city_guard_interrogation",
+            "location": "City Watch Barracks"
+        },
+        {
+            "id": "cult_high_02",
+            "content": "Deciphered cult documents reveal a plot to overthrow the kingdom's religious order.",
+            "reliability": "high",
+            "source_type": "intercepted",
+            "source_id": "spy_master",
+            "location": "Spy Master's Office"
+        },
+        {
+            "id": "cult_high_03",
+            "content": "Physical evidence of human sacrifice discovered in a hidden cult compound.",
+            "reliability": "high",
+            "source_type": "physical",
+            "source_id": "city_guard_raid",
+            "location": "Hidden Compound"
+        },
+        {
+            "id": "cult_high_04",
+            "content": "A trusted religious leader is discovered to be secretly leading the cult.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "royal_guard",
+            "location": "Temple"
+        },
+        {
+            "id": "cult_high_05",
+            "content": "Cult forces are confirmed to be massing for an attack on the capital.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "military_intelligence",
+            "location": "Military Headquarters"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+# Core dependencies for Kingdom Game Version 3.0 - Portable Edition
+# Built-in Python modules (no installation needed):
+# - json
+# - random  
+# - datetime
+# - typing
+# - dataclasses
+# - enum
+# - tkinter
+
+# No external dependencies required for portable version
+# All functionality uses built-in Python modules only

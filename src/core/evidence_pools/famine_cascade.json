@@ -1,0 +1,128 @@
+{
+  "low_priority": [
+    {
+      "id": "famine_low_001",
+      "content": "Citizens are avoiding public spaces more than usual. The streets seem emptier during peak hours.",
+      "reliability": "low",
+      "source_type": "rumor",
+      "source_id": "citizen_gossip",
+      "location": "market_district"
+    },
+    {
+      "id": "famine_low_002", 
+      "content": "Merchants report supply disruptions from northern regions. Trade routes seem less reliable.",
+      "reliability": "low",
+      "source_type": "market",
+      "source_id": "merchant_reports",
+      "location": "trade_district"
+    },
+    {
+      "id": "famine_low_003",
+      "content": "People are hoarding supplies and staying indoors. The usual bustle of city life has diminished.",
+      "reliability": "low",
+      "source_type": "rumor",
+      "source_id": "citizen_behavior",
+      "location": "residential_district"
+    },
+    {
+      "id": "famine_low_004",
+      "content": "Market prices are fluctuating unpredictably. Some goods are becoming scarce.",
+      "reliability": "low",
+      "source_type": "market",
+      "source_id": "price_reports",
+      "location": "market_district"
+    },
+    {
+      "id": "famine_low_005",
+      "content": "Farmers report strange conditions affecting their crops. Agricultural patterns seem disrupted.",
+      "reliability": "low",
+      "source_type": "rumor",
+      "source_id": "farmer_reports",
+      "location": "agricultural_district"
+    }
+  ],
+  "medium_priority": [
+    {
+      "id": "famine_medium_001",
+      "content": "Systematic food shortages are reported in northern regions. The pattern suggests deliberate interference.",
+      "reliability": "medium",
+      "source_type": "official",
+      "source_id": "regional_reports",
+      "location": "northern_provinces"
+    },
+    {
+      "id": "famine_medium_002",
+      "content": "Economic indicators show market instability. Financial patterns suggest underlying problems.",
+      "reliability": "medium",
+      "source_type": "official",
+      "source_id": "economic_reports",
+      "location": "treasury_district"
+    },
+    {
+      "id": "famine_medium_003",
+      "content": "Trade disruptions are affecting multiple regions. The pattern suggests coordinated interference.",
+      "reliability": "medium",
+      "source_type": "official",
+      "source_id": "trade_reports",
+      "location": "trade_district"
+    },
+    {
+      "id": "famine_medium_004",
+      "content": "Resource shortages are occurring in specific areas. The pattern suggests targeted disruption.",
+      "reliability": "medium",
+      "source_type": "official",
+      "source_id": "resource_reports",
+      "location": "agricultural_district"
+    },
+    {
+      "id": "famine_medium_005",
+      "content": "Growing unrest is reported in various regions. Social patterns suggest mounting tension.",
+      "reliability": "medium",
+      "source_type": "official",
+      "source_id": "social_reports",
+      "location": "residential_district"
+    }
+  ],
+  "high_priority": [
+    {
+      "id": "famine_high_001",
+      "content": "Intercepted enemy communications reveal plans for food destruction. The threat is confirmed.",
+      "reliability": "high",
+      "source_type": "intercepted",
+      "source_id": "enemy_communications",
+      "location": "intelligence_district"
+    },
+    {
+      "id": "famine_high_002",
+      "content": "Laboratory analysis confirms biological weapon deployment targeting food supplies. The attack is verified.",
+      "reliability": "high",
+      "source_type": "laboratory",
+      "source_id": "biological_analysis",
+      "location": "research_district"
+    },
+    {
+      "id": "famine_high_003",
+      "content": "Physical evidence confirms the nature of the threat. The crisis type is definitively identified.",
+      "reliability": "high",
+      "source_type": "physical",
+      "source_id": "forensic_evidence",
+      "location": "agricultural_district"
+    },
+    {
+      "id": "famine_high_004",
+      "content": "Intelligence reports provide conclusive proof. The threat source is definitively identified.",
+      "reliability": "high",
+      "source_type": "intercepted",
+      "source_id": "intelligence_reports",
+      "location": "intelligence_district"
+    },
+    {
+      "id": "famine_high_005",
+      "content": "Expert analysis confirms the scope of the crisis. The full threat is definitively understood.",
+      "reliability": "high",
+      "source_type": "laboratory",
+      "source_id": "expert_analysis",
+      "location": "research_district"
+    }
+  ]
+}

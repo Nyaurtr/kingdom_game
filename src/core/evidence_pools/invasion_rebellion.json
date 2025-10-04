@@ -1,0 +1,128 @@
+{
+    "low_priority": [
+        {
+            "id": "invasion_low_01",
+            "content": "Unusual troop movements are reported near the border, but dismissed as routine patrols.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "border_guard_report",
+            "location": "Border Outpost"
+        },
+        {
+            "id": "invasion_low_02",
+            "content": "Merchants complain about increased bandit activity on trade routes, disrupting commerce.",
+            "reliability": "low",
+            "source_type": "market",
+            "source_id": "merchant_gossip",
+            "location": "Merchant Guild"
+        },
+        {
+            "id": "invasion_low_03",
+            "content": "Farmers report strangers asking questions about local defenses and troop positions.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "farmer_report",
+            "location": "Rural Village"
+        },
+        {
+            "id": "invasion_low_04",
+            "content": "Unusual quietness in the usually bustling military barracks, with fewer soldiers visible.",
+            "reliability": "low",
+            "source_type": "physical",
+            "source_id": "barracks_observation",
+            "location": "Military Barracks"
+        },
+        {
+            "id": "invasion_low_05",
+            "content": "Reports of weapons being smuggled across the border, though quantities are small.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "customs_officer",
+            "location": "Border Checkpoint"
+        }
+    ],
+    "medium_priority": [
+        {
+            "id": "invasion_med_01",
+            "content": "Military intelligence confirms enemy forces massing at the border, preparing for an attack.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "military_intelligence",
+            "location": "Military Headquarters"
+        },
+        {
+            "id": "invasion_med_02",
+            "content": "Intercepted communications reveal a coordinated attack plan targeting key defensive positions.",
+            "reliability": "medium",
+            "source_type": "intercepted",
+            "source_id": "spy_network",
+            "location": "Hidden Den"
+        },
+        {
+            "id": "invasion_med_03",
+            "content": "A captured enemy scout confesses to reconnaissance missions within kingdom borders.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "military_interrogation",
+            "location": "Military Prison"
+        },
+        {
+            "id": "invasion_med_04",
+            "content": "Analysis of enemy troop movements shows a clear pattern of preparation for invasion.",
+            "reliability": "medium",
+            "source_type": "physical",
+            "source_id": "military_analyst",
+            "location": "War Room"
+        },
+        {
+            "id": "invasion_med_05",
+            "content": "Reports from border towns indicate enemy forces have already crossed into kingdom territory.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "border_patrol",
+            "location": "Border Outpost"
+        }
+    ],
+    "high_priority": [
+        {
+            "id": "invasion_high_01",
+            "content": "A high-ranking enemy officer defects, revealing the complete invasion plan and timeline.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "defector_testimony",
+            "location": "Royal Palace"
+        },
+        {
+            "id": "invasion_high_02",
+            "content": "Deciphered enemy communications confirm the invasion has already begun, with forces advancing.",
+            "reliability": "high",
+            "source_type": "intercepted",
+            "source_id": "spy_master",
+            "location": "Spy Master's Office"
+        },
+        {
+            "id": "invasion_high_03",
+            "content": "Physical evidence of enemy sabotage operations discovered at key defensive installations.",
+            "reliability": "high",
+            "source_type": "physical",
+            "source_id": "military_inspector",
+            "location": "Fortress"
+        },
+        {
+            "id": "invasion_high_04",
+            "content": "A trusted advisor is discovered to be a double agent, feeding information to the enemy.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "royal_guard",
+            "location": "Royal Palace"
+        },
+        {
+            "id": "invasion_high_05",
+            "content": "Enemy forces are confirmed to be within striking distance of the capital, attack imminent.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "military_commander",
+            "location": "Military Headquarters"
+        }
+    ]
+}

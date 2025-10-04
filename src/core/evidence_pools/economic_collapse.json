@@ -1,0 +1,248 @@
+{
+    "low_priority": [
+        {
+            "id": "economic_low_01",
+            "content": "Merchants complain about declining profits and increased competition from foreign traders.",
+            "reliability": "low",
+            "source_type": "market",
+            "source_id": "merchant_gossip",
+            "location": "Merchant Guild"
+        },
+        {
+            "id": "economic_low_02",
+            "content": "The royal treasurer notes a slight decrease in tax revenues, attributed to seasonal fluctuations.",
+            "reliability": "low",
+            "source_type": "official",
+            "source_id": "treasury_keeper",
+            "location": "Royal Treasury"
+        },
+        {
+            "id": "economic_low_03",
+            "content": "Local markets show signs of reduced activity, with fewer customers and lower sales.",
+            "reliability": "low",
+            "source_type": "market",
+            "source_id": "market_observer",
+            "location": "Market Square"
+        },
+        {
+            "id": "economic_low_04",
+            "content": "Reports of small businesses closing down due to financial difficulties.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "city_guard_report",
+            "location": "City Streets"
+        },
+        {
+            "id": "economic_low_05",
+            "content": "The royal banker mentions concerns about loan defaults and reduced lending capacity.",
+            "reliability": "low",
+            "source_type": "official",
+            "source_id": "royal_banker",
+            "location": "Royal Bank"
+        },
+        {
+            "id": "economic_low_06",
+            "content": "Foreign traders report difficulties in conducting business within the kingdom.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "foreign_merchant",
+            "location": "Docks"
+        },
+        {
+            "id": "economic_low_07",
+            "content": "Local craftsmen complain about reduced demand for their products.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "craftsman_report",
+            "location": "Craftsman Quarter"
+        },
+        {
+            "id": "economic_low_08",
+            "content": "Reports of increased unemployment in certain sectors of the economy.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "city_archives",
+            "location": "City Archives"
+        },
+        {
+            "id": "economic_low_09",
+            "content": "The royal mint reports unusual patterns in currency circulation and demand.",
+            "reliability": "low",
+            "source_type": "official",
+            "source_id": "royal_mint",
+            "location": "Royal Mint"
+        },
+        {
+            "id": "economic_low_10",
+            "content": "Local landlords report difficulties in collecting rent from tenants.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "landlord_report",
+            "location": "Residential District"
+        }
+    ],
+    "medium_priority": [
+        {
+            "id": "economic_med_01",
+            "content": "Economic analysis confirms a severe recession affecting multiple sectors of the kingdom's economy.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "economic_advisor",
+            "location": "Royal Palace"
+        },
+        {
+            "id": "economic_med_02",
+            "content": "Intercepted communications reveal that foreign powers are deliberately destabilizing the kingdom's economy.",
+            "reliability": "medium",
+            "source_type": "intercepted",
+            "source_id": "spy_network",
+            "location": "Hidden Den"
+        },
+        {
+            "id": "economic_med_03",
+            "content": "A captured saboteur confesses to spreading false economic information to cause panic.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "city_guard_interrogation",
+            "location": "City Watch Barracks"
+        },
+        {
+            "id": "economic_med_04",
+            "content": "Analysis of financial records reveals systematic manipulation of key economic indicators.",
+            "reliability": "medium",
+            "source_type": "laboratory",
+            "source_id": "royal_accountant",
+            "location": "Royal Treasury"
+        },
+        {
+            "id": "economic_med_05",
+            "content": "Reports from border regions indicate that foreign traders are flooding the market with cheap goods.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "border_patrol",
+            "location": "Border Outpost"
+        },
+        {
+            "id": "economic_med_06",
+            "content": "The royal diviner has visions of economic collapse and widespread poverty across the kingdom.",
+            "reliability": "medium",
+            "source_type": "prophetic",
+            "source_id": "royal_diviner",
+            "location": "Royal Chapel"
+        },
+        {
+            "id": "economic_med_07",
+            "content": "Intercepted messages between unknown parties discuss 'the great economic purge' and its success.",
+            "reliability": "medium",
+            "source_type": "intercepted",
+            "source_id": "spy_network",
+            "location": "Hidden Den"
+        },
+        {
+            "id": "economic_med_08",
+            "content": "Physical evidence of deliberate economic sabotage discovered at several key financial institutions.",
+            "reliability": "medium",
+            "source_type": "physical",
+            "source_id": "royal_inspector",
+            "location": "Financial District"
+        },
+        {
+            "id": "economic_med_09",
+            "content": "Reports from the royal physician indicate that economic stress is causing health problems among the populace.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "royal_physician",
+            "location": "Royal Infirmary"
+        },
+        {
+            "id": "economic_med_10",
+            "content": "Analysis of trade routes shows systematic disruption of key commercial arteries.",
+            "reliability": "medium",
+            "source_type": "market",
+            "source_id": "trade_guild_master",
+            "location": "Merchant Guild"
+        }
+    ],
+    "high_priority": [
+        {
+            "id": "economic_high_01",
+            "content": "A high-ranking cult leader confesses that the economic collapse is part of a ritual to bring about chaos and revolution.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "city_guard_interrogation",
+            "location": "City Watch Barracks"
+        },
+        {
+            "id": "economic_high_02",
+            "content": "Deciphered ancient texts reveal the exact ritual used to cause economic collapse and how to reverse it.",
+            "reliability": "high",
+            "source_type": "prophetic",
+            "source_id": "ancient_texts",
+            "location": "Grand Library"
+        },
+        {
+            "id": "economic_high_03",
+            "content": "Forensic evidence confirms that the economic collapse was artificially created using forbidden methods.",
+            "reliability": "high",
+            "source_type": "laboratory",
+            "source_id": "royal_accountant",
+            "location": "Royal Treasury"
+        },
+        {
+            "id": "economic_high_04",
+            "content": "A trusted economic advisor is discovered to be secretly leading the economic destruction cult.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "royal_guard",
+            "location": "Royal Palace"
+        },
+        {
+            "id": "economic_high_05",
+            "content": "Intercepted communications reveal a coordinated effort by multiple cults to destroy the kingdom's economy.",
+            "reliability": "high",
+            "source_type": "intercepted",
+            "source_id": "spy_master",
+            "location": "Spy Master's Office"
+        },
+        {
+            "id": "economic_high_06",
+            "content": "Scientific analysis confirms that the economic collapse will spread to all sectors within days if not stopped.",
+            "reliability": "high",
+            "source_type": "laboratory",
+            "source_id": "economic_advisor",
+            "location": "Royal Palace"
+        },
+        {
+            "id": "economic_high_07",
+            "content": "A captured cultist reveals the location of the master ritual that can stop or accelerate the economic collapse.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "military_interrogation",
+            "location": "Military Prison"
+        },
+        {
+            "id": "economic_high_08",
+            "content": "The royal diviner has a vision of the kingdom's complete economic destruction within days if action is not taken.",
+            "reliability": "high",
+            "source_type": "prophetic",
+            "source_id": "royal_diviner",
+            "location": "Royal Chapel"
+        },
+        {
+            "id": "economic_high_09",
+            "content": "Physical evidence of the economic collapse spreading rapidly across the kingdom's financial institutions.",
+            "reliability": "high",
+            "source_type": "physical",
+            "source_id": "military_scout",
+            "location": "Financial District"
+        },
+        {
+            "id": "economic_high_10",
+            "content": "A direct threat from the cult leader demanding the kingdom's surrender to prevent total economic destruction.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "cult_manifesto",
+            "location": "Royal Palace"
+        }
+    ]
+}

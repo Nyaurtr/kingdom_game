@@ -1,0 +1,248 @@
+{
+    "low_priority": [
+        {
+            "id": "environmental_low_01",
+            "content": "Unusual weather patterns are reported across the kingdom, with farmers noting strange cloud formations.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "farmer_report",
+            "location": "Rural Village"
+        },
+        {
+            "id": "environmental_low_02",
+            "content": "Animals in the royal menagerie are behaving strangely, showing signs of distress.",
+            "reliability": "low",
+            "source_type": "physical",
+            "source_id": "zookeeper_observation",
+            "location": "Royal Menagerie"
+        },
+        {
+            "id": "environmental_low_03",
+            "content": "Reports of minor earthquakes in distant regions, dismissed as normal geological activity.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "traveler_tale",
+            "location": "Inn"
+        },
+        {
+            "id": "environmental_low_04",
+            "content": "The royal astronomer notes unusual celestial alignments, though their significance is unclear.",
+            "reliability": "low",
+            "source_type": "official",
+            "source_id": "royal_astronomer",
+            "location": "Royal Observatory"
+        },
+        {
+            "id": "environmental_low_05",
+            "content": "Merchants report that certain trade routes have become more dangerous due to natural hazards.",
+            "reliability": "low",
+            "source_type": "market",
+            "source_id": "merchant_gossip",
+            "location": "Merchant Guild"
+        },
+        {
+            "id": "environmental_low_06",
+            "content": "Local fishermen complain about unusual fish behavior and changes in water temperature.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "fisherman_report",
+            "location": "Fishing Village"
+        },
+        {
+            "id": "environmental_low_07",
+            "content": "Reports of strange lights in the sky at night, dismissed as atmospheric phenomena.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "night_watchman",
+            "location": "City Walls"
+        },
+        {
+            "id": "environmental_low_08",
+            "content": "The royal gardens show signs of unusual plant growth patterns and premature wilting.",
+            "reliability": "low",
+            "source_type": "physical",
+            "source_id": "royal_gardener",
+            "location": "Royal Gardens"
+        },
+        {
+            "id": "environmental_low_09",
+            "content": "Miners report unusual vibrations deep in the earth, though they continue their work.",
+            "reliability": "low",
+            "source_type": "rumor",
+            "source_id": "miner_report",
+            "location": "Mining Camp"
+        },
+        {
+            "id": "environmental_low_10",
+            "content": "Local healers note an increase in weather-related illnesses among the populace.",
+            "reliability": "low",
+            "source_type": "official",
+            "source_id": "healer_report",
+            "location": "Healer's Guild"
+        }
+    ],
+    "medium_priority": [
+        {
+            "id": "environmental_med_01",
+            "content": "Scientific analysis confirms that the kingdom's climate is undergoing rapid, unnatural changes.",
+            "reliability": "medium",
+            "source_type": "laboratory",
+            "source_id": "royal_scholar",
+            "location": "Royal Academy"
+        },
+        {
+            "id": "environmental_med_02",
+            "content": "Intercepted communications reveal that neighboring kingdoms are experiencing similar environmental disruptions.",
+            "reliability": "medium",
+            "source_type": "intercepted",
+            "source_id": "spy_network",
+            "location": "Hidden Den"
+        },
+        {
+            "id": "environmental_med_03",
+            "content": "Detailed geological surveys show signs of massive underground disturbances affecting multiple regions.",
+            "reliability": "medium",
+            "source_type": "physical",
+            "source_id": "geological_surveyor",
+            "location": "Survey Office"
+        },
+        {
+            "id": "environmental_med_04",
+            "content": "A captured cultist reveals that their organization has been performing rituals to 'awaken the earth'.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "city_guard_interrogation",
+            "location": "City Watch Barracks"
+        },
+        {
+            "id": "environmental_med_05",
+            "content": "Analysis of ancient texts reveals prophecies about 'the great upheaval' that match current events.",
+            "reliability": "medium",
+            "source_type": "prophetic",
+            "source_id": "grand_librarian",
+            "location": "Grand Library"
+        },
+        {
+            "id": "environmental_med_06",
+            "content": "Reports from border outposts confirm that natural disasters are increasing in frequency and intensity.",
+            "reliability": "medium",
+            "source_type": "official",
+            "source_id": "border_patrol",
+            "location": "Border Outpost"
+        },
+        {
+            "id": "environmental_med_07",
+            "content": "The royal diviner has visions of the kingdom being torn apart by elemental forces.",
+            "reliability": "medium",
+            "source_type": "prophetic",
+            "source_id": "royal_diviner",
+            "location": "Royal Chapel"
+        },
+        {
+            "id": "environmental_med_08",
+            "content": "Intercepted messages between unknown parties discuss 'the final phase' of an environmental operation.",
+            "reliability": "medium",
+            "source_type": "intercepted",
+            "source_id": "spy_network",
+            "location": "Hidden Den"
+        },
+        {
+            "id": "environmental_med_09",
+            "content": "Physical evidence of massive energy disturbances discovered at several key geographical locations.",
+            "reliability": "medium",
+            "source_type": "physical",
+            "source_id": "royal_inspector",
+            "location": "Energy Site"
+        },
+        {
+            "id": "environmental_med_10",
+            "content": "Reports from the royal alchemist indicate that the fundamental properties of matter are changing.",
+            "reliability": "medium",
+            "source_type": "laboratory",
+            "source_id": "royal_alchemist",
+            "location": "Alchemist's Lab"
+        }
+    ],
+    "high_priority": [
+        {
+            "id": "environmental_high_01",
+            "content": "A high-ranking cult leader confesses that their organization has successfully triggered a catastrophic environmental event.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "city_guard_interrogation",
+            "location": "City Watch Barracks"
+        },
+        {
+            "id": "environmental_high_02",
+            "content": "Deciphered ancient texts reveal the exact ritual and location where the environmental catastrophe was initiated.",
+            "reliability": "high",
+            "source_type": "prophetic",
+            "source_id": "ancient_texts",
+            "location": "Grand Library"
+        },
+        {
+            "id": "environmental_high_03",
+            "content": "Physical evidence of massive magical disturbances discovered at the ritual site, confirming supernatural involvement.",
+            "reliability": "high",
+            "source_type": "physical",
+            "source_id": "royal_inspector",
+            "location": "Ritual Site"
+        },
+        {
+            "id": "environmental_high_04",
+            "content": "A trusted advisor is discovered to be secretly leading the environmental destruction cult.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "royal_guard",
+            "location": "Royal Palace"
+        },
+        {
+            "id": "environmental_high_05",
+            "content": "Intercepted communications reveal a coordinated effort by multiple cults to destroy the kingdom through environmental means.",
+            "reliability": "high",
+            "source_type": "intercepted",
+            "source_id": "spy_master",
+            "location": "Spy Master's Office"
+        },
+        {
+            "id": "environmental_high_06",
+            "content": "Scientific analysis confirms that the environmental changes are irreversible without immediate intervention.",
+            "reliability": "high",
+            "source_type": "laboratory",
+            "source_id": "royal_scholar",
+            "location": "Royal Academy"
+        },
+        {
+            "id": "environmental_high_07",
+            "content": "A captured cultist reveals the location of the master ritual that can stop or accelerate the environmental catastrophe.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "military_interrogation",
+            "location": "Military Prison"
+        },
+        {
+            "id": "environmental_high_08",
+            "content": "The royal diviner has a vision of the kingdom's complete destruction within days if action is not taken.",
+            "reliability": "high",
+            "source_type": "prophetic",
+            "source_id": "royal_diviner",
+            "location": "Royal Chapel"
+        },
+        {
+            "id": "environmental_high_09",
+            "content": "Physical evidence of the environmental catastrophe spreading rapidly across the kingdom's borders.",
+            "reliability": "high",
+            "source_type": "physical",
+            "source_id": "military_scout",
+            "location": "Border Outpost"
+        },
+        {
+            "id": "environmental_high_10",
+            "content": "A direct threat from the cult leader demanding the kingdom's surrender to prevent total environmental destruction.",
+            "reliability": "high",
+            "source_type": "official",
+            "source_id": "cult_manifesto",
+            "location": "Royal Palace"
+        }
+    ]
+}

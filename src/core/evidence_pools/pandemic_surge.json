@@ -1,0 +1,458 @@
+{
+    "low_priority": [
+      {
+        "id": "pandemic_low_001",
+        "content": "Citizens are avoiding public spaces more than usual. The streets seem emptier during peak hours.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "citizen_gossip",
+        "location": "market_district",
+        "interpretation_hints": ["pandemic", "famine", "invasion"],
+        "confusion_factors": ["social_behavior", "economic_activity", "public_gathering"]
+      },
+      {
+        "id": "pandemic_low_002",
+        "content": "People are hoarding supplies and staying indoors. The usual bustle of city life has diminished.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "citizen_behavior",
+        "location": "residential_district",
+        "interpretation_hints": ["pandemic", "famine", "invasion"],
+        "confusion_factors": ["social_behavior", "resource_scarcity", "threat_perception"]
+      },
+      {
+        "id": "pandemic_low_003",
+        "content": "Citizens appear nervous and suspicious. Conversations stop when strangers approach.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "social_observation",
+        "location": "residential_district",
+        "interpretation_hints": ["pandemic", "famine", "cult_uprising"],
+        "confusion_factors": ["social_tension", "threat_perception", "paranoia"]
+      },
+      {
+        "id": "pandemic_low_004",
+        "content": "Rumors circulate about foreign interference in kingdom affairs. Whispers suggest outside influence.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "political_gossip",
+        "location": "noble_district",
+        "interpretation_hints": ["invasion", "cult_uprising", "pandemic"],
+        "confusion_factors": ["political_interference", "external_influence", "conspiracy_theories"]
+      },
+      {
+        "id": "pandemic_low_005",
+        "content": "People speak of strange occurrences in rural areas. Unexplained events are reported.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "rural_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["pandemic", "cult_uprising", "supernatural_rift"],
+        "confusion_factors": ["supernatural_events", "rural_mysteries", "unexplained_phenomena"]
+      },
+      {
+        "id": "pandemic_low_006",
+        "content": "Gossip suggests that not all is as it seems. Hidden agendas may be at work.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "conspiracy_gossip",
+        "location": "noble_district",
+        "interpretation_hints": ["cult_uprising", "pandemic", "invasion"],
+        "confusion_factors": ["hidden_agendas", "conspiracy_theories", "political_manipulation"]
+      },
+      {
+        "id": "pandemic_low_007",
+        "content": "Natural phenomena are occurring more frequently. The environment seems unstable.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "environmental_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["environmental_catastrophe", "supernatural_rift", "pandemic"],
+        "confusion_factors": ["natural_phenomena", "environmental_instability", "supernatural_influence"]
+      },
+      {
+        "id": "pandemic_low_008",
+        "content": "Unusual weather patterns are reported. The climate seems different from normal seasons.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "weather_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["environmental_catastrophe", "supernatural_rift", "pandemic"],
+        "confusion_factors": ["weather_patterns", "natural_phenomena", "environmental_changes"]
+      },
+      {
+        "id": "pandemic_low_009",
+        "content": "Merchants report supply disruptions from northern regions. Trade routes seem less reliable.",
+        "reliability": "low",
+        "source_type": "market",
+        "source_id": "merchant_reports",
+        "location": "trade_district",
+        "interpretation_hints": ["pandemic", "economic_collapse", "invasion"],
+        "confusion_factors": ["trade_disruption", "supply_chain", "economic_instability"]
+      },
+      {
+        "id": "pandemic_low_010",
+        "content": "Market prices are fluctuating unpredictably. Some goods are becoming scarce.",
+        "reliability": "low",
+        "source_type": "market",
+        "source_id": "price_reports",
+        "location": "market_district",
+        "interpretation_hints": ["pandemic", "economic_collapse", "trade_disruption"],
+        "confusion_factors": ["economic_instability", "supply_demand", "market_manipulation"]
+      },
+      {
+        "id": "pandemic_low_011",
+        "content": "Trade caravans are arriving less frequently. The usual flow of commerce seems disrupted.",
+        "reliability": "low",
+        "source_type": "market",
+        "source_id": "caravan_reports",
+        "location": "trade_district",
+        "interpretation_hints": ["pandemic", "economic_collapse", "invasion"],
+        "confusion_factors": ["trade_disruption", "economic_instability", "external_threats"]
+      },
+      {
+        "id": "pandemic_low_012",
+        "content": "Farmers report strange conditions affecting their crops. Agricultural patterns seem disrupted.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "farmer_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["pandemic", "crop_blight", "environmental_catastrophe"],
+        "confusion_factors": ["agricultural_conditions", "weather_patterns", "natural_disasters"]
+      },
+      {
+        "id": "pandemic_low_013",
+        "content": "Citizens are avoiding public spaces more than usual. The streets seem emptier during peak hours.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "citizen_gossip",
+        "location": "market_district",
+        "interpretation_hints": ["pandemic", "famine", "invasion"],
+        "confusion_factors": ["social_behavior", "economic_activity", "public_gathering"]
+      },
+      {
+        "id": "pandemic_low_014",
+        "content": "People are hoarding supplies and staying indoors. The usual bustle of city life has diminished.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "citizen_behavior",
+        "location": "residential_district",
+        "interpretation_hints": ["pandemic", "famine", "invasion"],
+        "confusion_factors": ["social_behavior", "resource_scarcity", "threat_perception"]
+      },
+      {
+        "id": "pandemic_low_015",
+        "content": "Citizens appear nervous and suspicious. Conversations stop when strangers approach.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "social_observation",
+        "location": "residential_district",
+        "interpretation_hints": ["pandemic", "famine", "cult_uprising"],
+        "confusion_factors": ["social_tension", "threat_perception", "paranoia"]
+      },
+      {
+        "id": "pandemic_low_016",
+        "content": "Rumors circulate about foreign interference in kingdom affairs. Whispers suggest outside influence.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "political_gossip",
+        "location": "noble_district",
+        "interpretation_hints": ["invasion", "cult_uprising", "pandemic"],
+        "confusion_factors": ["political_interference", "external_influence", "conspiracy_theories"]
+      },
+      {
+        "id": "pandemic_low_017",
+        "content": "People speak of strange occurrences in rural areas. Unexplained events are reported.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "rural_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["pandemic", "cult_uprising", "supernatural_rift"],
+        "confusion_factors": ["supernatural_events", "rural_mysteries", "unexplained_phenomena"]
+      },
+      {
+        "id": "pandemic_low_018",
+        "content": "Gossip suggests that not all is as it seems. Hidden agendas may be at work.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "conspiracy_gossip",
+        "location": "noble_district",
+        "interpretation_hints": ["cult_uprising", "pandemic", "invasion"],
+        "confusion_factors": ["hidden_agendas", "conspiracy_theories", "political_manipulation"]
+      },
+      {
+        "id": "pandemic_low_019",
+        "content": "Natural phenomena are occurring more frequently. The environment seems unstable.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "environmental_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["environmental_catastrophe", "supernatural_rift", "pandemic"],
+        "confusion_factors": ["natural_phenomena", "environmental_instability", "supernatural_influence"]
+      },
+      {
+        "id": "pandemic_low_020",
+        "content": "Unusual weather patterns are reported. The climate seems different from normal seasons.",
+        "reliability": "low",
+        "source_type": "rumor",
+        "source_id": "weather_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["environmental_catastrophe", "supernatural_rift", "pandemic"],
+        "confusion_factors": ["weather_patterns", "natural_phenomena", "environmental_changes"]
+      }
+    ],
+    "medium_priority": [
+      {
+        "id": "pandemic_medium_001",
+        "content": "Systematic health issues are reported in northern regions. The pattern suggests deliberate biological attack.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "health_reports",
+        "location": "northern_provinces",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["natural_vs_deliberate", "regional_vs_kingdom_wide"]
+      },
+      {
+        "id": "pandemic_medium_002",
+        "content": "Medical facilities are reporting unusual cases. The pattern suggests organized biological warfare.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "medical_reports",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["organized_vs_natural", "biological_vs_chemical"]
+      },
+      {
+        "id": "pandemic_medium_003",
+        "content": "Disease outbreaks are affecting multiple regions. The pattern suggests coordinated biological attack.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "disease_reports",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["coordinated_vs_natural", "biological_vs_environmental"]
+      },
+      {
+        "id": "pandemic_medium_004",
+        "content": "Health monitoring systems are detecting unusual patterns. The pattern suggests systematic biological interference.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "monitoring_reports",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["systematic_vs_natural", "biological_vs_environmental"]
+      },
+      {
+        "id": "pandemic_medium_005",
+        "content": "Growing health concerns are reported in various regions. Medical patterns suggest mounting biological threat.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "health_reports",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["medical_vs_social", "biological_vs_environmental"]
+      },
+      {
+        "id": "pandemic_medium_006",
+        "content": "Religious tensions are increasing. The pattern suggests organized opposition.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "religious_reports",
+        "location": "temple_district",
+        "interpretation_hints": ["cult_uprising", "pandemic"],
+        "confusion_factors": ["religious_vs_medical", "organized_vs_spontaneous"]
+      },
+      {
+        "id": "pandemic_medium_007",
+        "content": "Political instability is affecting multiple areas. The pattern suggests coordinated resistance.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "political_reports",
+        "location": "noble_district",
+        "interpretation_hints": ["invasion", "cult_uprising"],
+        "confusion_factors": ["political_vs_medical", "coordinated_vs_spontaneous"]
+      },
+      {
+        "id": "pandemic_medium_008",
+        "content": "Military movements are observed near the border. Troop deployments suggest preparation for conflict.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "military_reports",
+        "location": "border_regions",
+        "interpretation_hints": ["invasion", "pandemic"],
+        "confusion_factors": ["military_vs_medical", "defensive_vs_offensive"]
+      },
+      {
+        "id": "pandemic_medium_009",
+        "content": "Mysterious disappearances are occurring in rural areas. The pattern suggests organized activity.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "security_reports",
+        "location": "agricultural_district",
+        "interpretation_hints": ["cult_uprising", "invasion"],
+        "confusion_factors": ["organized_vs_natural", "rural_vs_urban"]
+      },
+      {
+        "id": "pandemic_medium_010",
+        "content": "Medical research facilities are reporting unusual activity. The pattern suggests systematic biological research.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "research_reports",
+        "location": "research_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["systematic_vs_natural", "research_vs_attack"]
+      },
+      {
+        "id": "pandemic_medium_011",
+        "content": "Health distribution networks are being disrupted. The pattern suggests deliberate interference.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "distribution_reports",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["deliberate_vs_natural", "distribution_vs_production"]
+      },
+      {
+        "id": "pandemic_medium_012",
+        "content": "Medical storage facilities are reporting unusual losses. The pattern suggests systematic theft or sabotage.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "storage_reports",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["theft_vs_sabotage", "systematic_vs_random"]
+      },
+      {
+        "id": "pandemic_medium_013",
+        "content": "Transportation routes are being blocked or disrupted. The pattern suggests coordinated interference.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "transport_reports",
+        "location": "trade_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["coordinated_vs_natural", "transport_vs_production"]
+      },
+      {
+        "id": "pandemic_medium_014",
+        "content": "Market manipulation is affecting medical supplies. The pattern suggests deliberate economic warfare.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "market_reports",
+        "location": "market_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["manipulation_vs_natural", "economic_vs_medical"]
+      },
+      {
+        "id": "pandemic_medium_015",
+        "content": "Supply chain disruptions are affecting medical sectors. The pattern suggests systematic interference.",
+        "reliability": "medium",
+        "source_type": "official",
+        "source_id": "supply_reports",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic", "biological_warfare"],
+        "confusion_factors": ["systematic_vs_natural", "supply_vs_demand"]
+      }
+    ],
+    "high_priority": [
+      {
+        "id": "pandemic_high_001",
+        "content": "Intercepted enemy communications reveal plans for biological weapon deployment. The threat is confirmed.",
+        "reliability": "high",
+        "source_type": "intercepted",
+        "source_id": "enemy_communications",
+        "location": "intelligence_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_002",
+        "content": "Laboratory analysis confirms biological weapon deployment. The attack is verified.",
+        "reliability": "high",
+        "source_type": "laboratory",
+        "source_id": "biological_analysis",
+        "location": "research_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_003",
+        "content": "Physical evidence confirms the nature of the threat. The crisis type is definitively identified.",
+        "reliability": "high",
+        "source_type": "physical",
+        "source_id": "forensic_evidence",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_004",
+        "content": "Intelligence reports provide conclusive proof. The threat source is definitively identified.",
+        "reliability": "high",
+        "source_type": "intercepted",
+        "source_id": "intelligence_reports",
+        "location": "intelligence_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_005",
+        "content": "Expert analysis confirms the scope of the crisis. The full threat is definitively understood.",
+        "reliability": "high",
+        "source_type": "laboratory",
+        "source_id": "expert_analysis",
+        "location": "research_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_006",
+        "content": "Royal scholars confirm the existence of biological warfare operations. The medical threat is verified.",
+        "reliability": "high",
+        "source_type": "official",
+        "source_id": "royal_scholars",
+        "location": "royal_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_007",
+        "content": "Military intelligence confirms enemy biological weapon preparations. The medical threat is confirmed.",
+        "reliability": "high",
+        "source_type": "intercepted",
+        "source_id": "military_intelligence",
+        "location": "military_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_008",
+        "content": "Medical analysis reveals systematic biological attack. The pandemic threat is confirmed.",
+        "reliability": "high",
+        "source_type": "official",
+        "source_id": "medical_analysis",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_009",
+        "content": "Health experts confirm deliberate disease deployment. The pandemic threat is verified.",
+        "reliability": "high",
+        "source_type": "laboratory",
+        "source_id": "health_experts",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      },
+      {
+        "id": "pandemic_high_010",
+        "content": "Disease control analysis confirms systematic disruption. The pandemic crisis is definitively identified.",
+        "reliability": "high",
+        "source_type": "official",
+        "source_id": "disease_control",
+        "location": "medical_district",
+        "interpretation_hints": ["pandemic"],
+        "confusion_factors": []
+      }
+    ]
+}
